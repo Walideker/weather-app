@@ -1,0 +1,21 @@
+#root {
+  text-align: center;
+}
+.navbar{
+  background-color: gray;
+  padding: 10px;
+}
+.input-success {
+  padding: 10px;
+  border: 1px solid #607D8B;  
+  border-radius: 4px;
+  font-size: 16px;
+  color: #333;
+}
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+  color:white;
+  background-color: teal;
+}
